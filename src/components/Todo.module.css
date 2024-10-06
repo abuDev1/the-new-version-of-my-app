@@ -1,0 +1,5 @@
+.todoLi {
+    list-style-type: none;
+    border-bottom: 1px solid rgb(232, 227, 227);
+    margin: 10px;
+}

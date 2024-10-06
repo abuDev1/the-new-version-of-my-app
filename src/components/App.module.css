@@ -1,0 +1,19 @@
+.container {
+    margin: 20px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.columnOne {
+    width: 30%;
+}
+
+.columnTwo {
+    width: 60%;
+}
+
